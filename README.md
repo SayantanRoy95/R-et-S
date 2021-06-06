@@ -1,2 +1,2 @@
-# R-coltes-et-Semailles
+# Recoltes-et-Semailles
 English translation of Grothendieck's "Récoltes et Semailles"
