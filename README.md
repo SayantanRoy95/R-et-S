@@ -1,6 +1,12 @@
 # Récoltes-et-Semailles
 English translation of Grothendieck's "Récoltes et Semailles"
 
+# Transription of the original by Mateo Carmona
+https://agrothendieck.github.io/divers/ReS.pdf
+
+# Zulip Chat Link (for suggestions/comments/concerns..)
+https://grothendieckthemes.zulipchat.com/#narrow/stream/272579-translation/topic/English.20Translation.20of.20RetS
+
 ## To do
 
 - To translate the "red coloured" phrases as close to original as possible (without compromising the flow of the English).
