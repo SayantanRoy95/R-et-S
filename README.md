@@ -2,12 +2,11 @@
 English translation of Grothendieck's "Récoltes et Semailles"
 
 # Transription of the original by Mateo Carmona
-https://agrothendieck.github.io/divers/ReS.pdf
+https://agrothendieck.github.io/divers/ReS.pdf (for a weath of other materials on Grothendieck, subscribe to https://agrothendieck.github.io/.)
+
 
 # Zulip Chat Link (for suggestions/comments/concerns..)
 https://grothendieckthemes.zulipchat.com/#narrow/stream/272579-translation/topic/English.20Translation.20of.20RetS (for an invite link send an email to carmonamateogm@gmail.com).
-
-Also for a weath of other materials on Grothendieck, subscribe to https://agrothendieck.github.io/.
 
 ## To do
 
